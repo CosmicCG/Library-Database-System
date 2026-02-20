@@ -1,0 +1,5 @@
+This text document lists out the things that we have done that is above the needed requirements
+
+- Fixed the character '&amp;' by changing all instances of '&amp;' into '&'
+- Fixed some author names by hand:
+  - Sir Arthur Conan Doyle has been made consistent across all instances
